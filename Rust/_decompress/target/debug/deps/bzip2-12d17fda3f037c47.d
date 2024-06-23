@@ -1,0 +1,11 @@
+C:\Users\divyam_sirswal\Desktop\Rust\_decompress\target\debug\deps\libbzip2-12d17fda3f037c47.rmeta: C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs
+
+C:\Users\divyam_sirswal\Desktop\Rust\_decompress\target\debug\deps\libbzip2-12d17fda3f037c47.rlib: C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs
+
+C:\Users\divyam_sirswal\Desktop\Rust\_decompress\target\debug\deps\bzip2-12d17fda3f037c47.d: C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs
+
+C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\lib.rs:
+C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\mem.rs:
+C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\bufread.rs:
+C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\read.rs:
+C:\Users\divyam_sirswal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-0.4.4\src\write.rs:
