@@ -1,7 +1,0 @@
-Workflow of openSource :---
-
-1.find the project you want to work on
-2.go to the issue section - it not really mean a issue it just like a task for open to everyone
-	a.finding other issues --> go to the label tab ---> find appropiate issue.
-	b.if you are new to openSource --> go for the good first issue.
-	c.we can also make our own issue and label.
