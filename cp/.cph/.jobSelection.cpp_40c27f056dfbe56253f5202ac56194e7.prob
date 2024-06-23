@@ -1,1 +1,0 @@
-{"name":"Local: jobSelection","url":"c:\\Users\\divyam_sirswal\\Desktop\\cp\\jobSelection.cpp","tests":[{"id":1707028099877,"input":"4 1 1 1\n70 80 30 100","output":"170"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\divyam_sirswal\\Desktop\\cp\\jobSelection.cpp","group":"local","local":true}
